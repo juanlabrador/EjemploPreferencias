@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjemploPreferencias</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pre_user_name">Establecer nombre de usuario</string>
+    <string name="pre_user_name_summary">Establecer tu nombre de usuario</string>
+
+    <string name="pre_report">Diagnostico de problemas</string>
+    <string name="pre_send_report">Enviar reporte</string>
+    <string name="pre_send_report_summary">Ayuda a solucionar nuestros problemas</string>
+
+    <string name="pre_sync_frequency">Frecuencia de sincronización</string>
+    <string name="pre_sync_frequency_summary">Establece la frecuencia</string>
+
+    <string name="pre_user_profile">Perfil de usuario</string>
+
+    <string name="pre_about">Acerca de...</string>
+
+    <string name="pre_about_web">Soporte de desarrollo</string>
+    <string name="pre_about_web_summary">Dudas y preguntas referentes a la aplicación</string>
+
+</resources>
